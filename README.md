@@ -1,5 +1,8 @@
 # Movie List
 
+![image](https://github.com/melody8503/Movie-List-v2/blob/main/movieList.png)
+[Movie List](https://melody8503.github.io/Movie-List-v2/)
+
 ## 介紹
 
 串接 API 渲染電影清單，透過互動式介面查看電影資訊
